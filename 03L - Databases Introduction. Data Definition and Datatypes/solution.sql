@@ -1,4 +1,4 @@
-CREATE DATABASE IF NOT EXISTS gamebar;
+    CREATE DATABASE IF NOT EXISTS gamebar;
 USE gamebar;
 
 CREATE TABLE employees (
