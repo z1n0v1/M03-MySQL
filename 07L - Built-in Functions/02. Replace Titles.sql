@@ -1,0 +1,1 @@
+SELECT replace(title, 'The', '***') FROM books WHERE substr(title, 1, 3) = 'The';
