@@ -1,0 +1,1 @@
+SELECT count(p.id) FROM products AS p WHERE category_id = 2 AND price > 8;
